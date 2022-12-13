@@ -1,1 +1,1 @@
-# website ok pour la syncro
+# website ok pour la syncronisation
